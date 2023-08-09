@@ -1,0 +1,14 @@
+{
+    "dev": {
+      "driver": "pg",
+      "user": "ghojcqmj",
+      "password": "iAsajPBVeYFb5YbHr1K8lzlsPRZ_WOvz",
+      "host": "heffalump.db.elephantsql.com",
+      "database": "ghojcqmj",
+      "port": "5432",
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    }
+
+}
